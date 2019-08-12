@@ -1,0 +1,21 @@
+.right-ol {
+  position: fixed;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.right-ol > li {
+  margin: 6px;
+}
+.title {
+  padding: 10px 0;
+}
+.name {
+  margin: 6px 0;
+}
+
+.box{
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
